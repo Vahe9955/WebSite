@@ -9,8 +9,12 @@ npm run dev
 ```
 ## For run maybe you will be needed use this terminal commonds for use node_modules 
 Terminal commmands 
-1  ``` bash
+1  
+```bash
 npm install -D tailwindcss
-2  
+```
+
+2
+```bash
 npx tailwindcss init
 ```
