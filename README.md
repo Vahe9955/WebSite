@@ -11,8 +11,6 @@ npm run dev
 Terminal commmands 
 1  ``` bash
 npm install -D tailwindcss
-```
-
-2  ```
+2  
 npx tailwindcss init
 ```
