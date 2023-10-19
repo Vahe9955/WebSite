@@ -7,8 +7,8 @@
 ```bash
 npm run dev
 ```
-## For run maybe you will be needed use this terminal commonds for use node_modules 
-Terminal commmands 
+## To run the program you need to install node_modules. For installation please use following
+terminal commands
 1
 ```bash
 npm install -D tailwindcss
